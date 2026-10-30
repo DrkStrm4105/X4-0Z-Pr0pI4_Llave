@@ -35,6 +35,7 @@ Los ejemplos futuros deberán usar identidades, secretos y datos exclusivamente 
 - `docs/10-especificacion/`: entidades, estados y operadores.
 - `docs/20-modelo-de-amenazas/`: activos, adversarios y mitigaciones.
 - `docs/30-decisiones/`: decisiones arquitectónicas.
+- `docs/40-exploraciones/`: ensayos exploratorios, no normativos.
 - `schemas/`: futuros contratos serializables.
 
 No se introducirán `src/` ni dependencias hasta definir una cápsula ejecutable mínima y sus criterios de validación.
